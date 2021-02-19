@@ -7,12 +7,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Robshan Azimov azi.rovhan@gmail.com https://github.com/Rosh95",
+  "author": "Rovshan Azimov azi.rovhan@gmail.com https://github.com/Rosh95",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
   },
   "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "prettier": "^2.2.1"
   }
 }
